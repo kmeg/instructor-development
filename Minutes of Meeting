@@ -1,0 +1,42 @@
+Minutes
+
+IDC Meeting
+Wednesday, June 26th
+1900 UTC
+Attended: 
+Sarah Stevens
+Tobin Magle
+Marco
+Kemi
+Arindam Basu  
+Agenda 
+Welcome, Introductions, and Code of Conduct
+Mentoring Program
+Discussion Sessions
+Project Ideas
+The meeting started with a summary of previous meeting followed by a discussion on projects we would like to do. There was a discussion on how to engage more instructors who are pre/post workshop.  Aus/NZ talking about inviting instructors to visit other workshops - Virtually or in person. Arin mentioned that virtually inviting the instructors is doable right now, asking the instructors come and sit in the workshops and provide feedbacks.
+Project Ideas
+Project suggestion 1: We need to go through the discussion session forms and update the handbook with common questions (and meta analysis of who is hosting and why some folks are not hosting) 
+Project suggestion 2: Virtually inviting instructors to visit other workshops in some high throughput manner
+Project suggestion 3: Update the instructor notes - bug bbq / sprint
+Project suggestion 4: How to keep people involved after the workshop: Work on materials and testing out different ways to engage learners after the workshop for instructors - Life cycle of a community - turning learners into helpers into instructors
+Project suggestion 5: Figuring out ways to train instructors in lessons they don't know, so they can teach them.
+The committee reviewed the five project suggestion and decided to start with the first one.
+Project suggestion 1 goals, strategies and deadlines
+Serah suggested the following plan of action by all members of the committee
+- Everyone needs to have access to the data (form results)
+Take a snapshot and clean up the data
+- Make project folder / repo (private - or code is public but not the data)
+- Questions we want to ask about the data
++ How many people are coming to each session on average?
++ How many people are pre/post workshop vs checkout?
++ How many sessions have a notetaker?
++ Which topics were discussed? (this might be the most difficult to parse)
++ Who is hosting these discussion sessions?
+- Use the results to inform what the form looks like
+Serah planned to put notes into the IDC github repo and make team and repo for this (github ids: sstevens2,  maglet, mchiapello, arinbasu). She added that everyone should take a look at the data and play with the data a little, try and make it tidy. Also every member should think about the questions they are most interested in or other questions.
+Next month’s Meeting - Full IDC July 15th and Leadership meeting July 24th (time same as this month, will come with announcement)
+Monday, June 17th
+1600 UTC
+
+
